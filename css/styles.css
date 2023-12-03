@@ -137,36 +137,33 @@ p {
     font-family: 'Montserrat', sans-serif;
     font-weight: 500;
 }
-
 /* cta */
-
 #cta {
     padding: 7% 15% 1%;
     text-align: center;
     background-color: #ff4c68;
 }
-
 .cta-text {
     font-family: 'Montserrat', sans-serif;
     font-size: 3rem;
     color: white;
 }
-
 /* footer */
-
 #footer {
     text-align: center;
     padding: 2% 0% 1%;
     color: black;
     background-color: #f2f2f2;
 }
-
+footer a{
+    text-decoration: none;
+    color: #8f8f8f;
+}
 .social-links {
     color: black;
     padding: 10px 10px 20px;
 }
-
-.social-links:hover {
+.social-links:hover{
     color: #ff4c68;
 }
 
@@ -186,19 +183,3 @@ p {
         width: 40%;
     }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-/* font-family: 'Ubuntu', sans-serif; */
-/* font-family: 'Montserrat', sans-serif; */
